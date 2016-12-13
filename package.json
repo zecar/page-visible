@@ -1,0 +1,23 @@
+{
+  "name": "page-visible",
+  "version": "1.0.0",
+  "description": "Module to find if the user is currently on the web page and when is not. This also include event calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zecar/page-visible.git"
+  },
+  "keywords": [
+    "page",
+    "visibility"
+  ],
+  "author": "ZecaR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zecar/page-visible/issues"
+  },
+  "homepage": "https://github.com/zecar/page-visible#readme"
+}
