@@ -1,6 +1,6 @@
 {
   "name": "page-visible",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Module to find if the user is currently on the web page and when is not. This also include event calls",
   "main": "index.js",
   "scripts": {
