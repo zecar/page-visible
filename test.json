@@ -1,5 +1,5 @@
 [{
-action: "talk",
-voiceName: "Russell",
-text: "Salut. Dar licenta cand o iei?"
+"action": "talk",
+"voiceName": "Russell",
+"text": "Salut. Dar licenta cand o iei?"
 }]
